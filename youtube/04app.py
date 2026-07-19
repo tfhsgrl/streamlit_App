@@ -1,0 +1,6 @@
+project/
+│
+├── app.py
+├── requirements.txt
+└── .streamlit/
+    └── secrets.toml   (Streamlit Cloud에서는 Secrets에 입력)
